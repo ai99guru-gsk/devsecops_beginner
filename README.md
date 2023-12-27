@@ -34,4 +34,35 @@
 - Kubernetes explained
 - **[Hands-on]** Install and Verify minikube, kubectl
 - Kubernetes architecture
-- 
+- **[Hands-on]** Deploy an nginx pod
+- **[Hands-on]** Expose nginx pod and verify
+- Understand the need for pod
+- **[Hands-on]** Verify the logs 
+- Pod labels, annotations, life cycle
+- **[Hands-on]** Scale the pod
+- **[Hands-on]** Manage the pod - update, delete etc
+- Recap for the day
+
+### [Day 17] Imperative vs Declarative
+- Learn coffee making or Order coffee 
+- **[Hands-on]** YAML basics
+- **[Hands-on]** Deploy an nginx pod declarative way
+- **[Hands-on]** Manage the pod declarative way
+- Replica sets and deployments 
+- **[Hands-on]** Replicasets and deployments 
+- **[Hands-on]** Manage replicas and deployments
+- Recap for the day
+
+### [Day 18] Operate Kubernetes
+- **[Hands-on]** Cluster management basics
+- **[Hands-on]** Logs
+- **[Hands-on]** Scale up / down
+- **[Hands-on]** New deployments 
+- **[Hands-on]** Deployment strategy (blue/green, canary)
+- **[Hands-on]** Dashboards
+
+
+
+
+
+
