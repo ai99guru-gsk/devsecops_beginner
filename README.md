@@ -1,4 +1,4 @@
-# A journey into :fa-star[Hands-on]:fa-star DevSecOps - Repository for my DevSecOps beginner course
+# A journey into [Hands-on] DevSecOps - Repository for my DevSecOps beginner course
 
 ## Youtube URL :  
 
