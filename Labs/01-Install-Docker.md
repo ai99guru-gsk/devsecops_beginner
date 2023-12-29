@@ -1,0 +1,25 @@
+### Docker Install
+- Prep Work
+	- 1. su and go to root
+	- 2. apt update
+	- 3. apt install apt-transport-https ca-certificates curl software-properties-common
+	- 4. curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+	- 5. add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable"
+	- 6. apt-cache policy docker-ce
+- Install
+	- 1. apt install docker-ce
+	- 2. systemctl status docker
+	- 3. Since we have installed it through root, local user will not have access to docker demoen
+		- 1. "docker version" and see permission error
+		- 2. check user name with "whoami"
+		- 3. BEcome root
+		- 4. usermod -aG docker <username>
+		- 5. su <username>
+		- 6. try "groups" and you should see docker group added
+		- 7. try "docker version" now. 
+- Validate
+	- Test a hello-world image: docker run hello-world"
+	- Test busybox image: docker run busybox echo "Hello Guru"
+	- docker images
+	- docker ps
+	- docker ps -a
