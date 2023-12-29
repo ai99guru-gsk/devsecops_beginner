@@ -1,5 +1,4 @@
 ### [Day 15] Playing with docker
-- Containers explained
 - **[Hands-on]** Install and Verify docker - You can use Local VM or Cloud VM
 - **[Hands-on]** Hello World
 - **[Hands-on]** Create a sample app (nodejs)
