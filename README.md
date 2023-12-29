@@ -11,7 +11,7 @@
 - Markey survey, opportunities
 - Career growth 
 
-### [Day 1] Prepare your workstation
+### Prepare your workstation
 - **[Hands-on]** Ubuntu VM (for windows users)
 - Source / version control basics 
 - **[Hands-on]** Install and Verify git
@@ -19,9 +19,9 @@
 - **[Hands-on]** Create a repository
 - **[Hands-on]** Clone the repository
 
-### [Day 2-14] Continuous Integration Section
+### Continuous Integration Section
 
-### [Day 15] Playing with docker
+### Playing with docker
 - Containers explained
 - **[Hands-on]** Install and Verify docker
 - **[Hands-on]** Hello World
@@ -33,7 +33,7 @@
 - **[Hands-on]** BONUS - Try a simple Python (flask) app 
 
 
-### [Day 16] Say hello to kubernetes
+### Say hello to kubernetes
 - Kubernetes explained
 - **[Hands-on]** Install and Verify minikube, kubectl
 - Kubernetes architecture
@@ -46,7 +46,7 @@
 - **[Hands-on]** Manage the pod - update, delete etc
 - Recap for the day
 
-### [Day 17] Imperative vs Declarative
+### Imperative vs Declarative
 - Learn coffee making or Order coffee 
 - **[Hands-on]** YAML basics
 - **[Hands-on]** Deploy an nginx pod declarative way
@@ -56,7 +56,7 @@
 - **[Hands-on]** Manage replicas and deployments
 - Recap for the day
 
-### [Day 18] Operate Kubernetes
+### Operate Kubernetes
 - **[Hands-on]** Cluster management basics
 - **[Hands-on]** Logs
 - **[Hands-on]** Scale up / down
